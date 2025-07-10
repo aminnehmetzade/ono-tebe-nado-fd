@@ -1,1 +1,1 @@
-https://github.com/aminnehmetzade/ono-tebe-nado-fd
+git@github.com:aminnehmetzade/ono-tebe-nado.git
