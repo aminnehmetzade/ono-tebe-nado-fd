@@ -296,7 +296,6 @@
 
 .footer__social-link{
   display: block;
-  transition: opacity 0.3s;
   width: 48px;
   height: 48px;
 }
