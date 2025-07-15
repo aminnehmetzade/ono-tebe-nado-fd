@@ -134,6 +134,7 @@
 .lots{
   padding: 180px 50px;
 
+
 }
 .lots__heading{
   font-size:40px;
@@ -145,14 +146,14 @@
 
 .lots__card-list{
   display: flex;
-  flex-wrap: wrap;
-  gap: 25px;
+  flex-wrap: nowrap;
+  gap: 16px;
   list-style: none;
   margin-bottom: 30px;
 }
 
 .lots__card-list-item{
-  width: 430px;
+  width: 334px;
   min-height: 596px;
   flex-grow: 1;
 }
